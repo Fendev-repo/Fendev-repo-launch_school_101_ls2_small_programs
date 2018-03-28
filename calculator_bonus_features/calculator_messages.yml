@@ -1,0 +1,12 @@
+# Calculator messages
+
+en:
+  program_finished: "Need to make another calcluation? Type 'y'"
+  welcome: 'Welcome to calculator'
+  whats_first_num: "What's the first number?"
+  whats_second_num: "What's the second number?" 
+es: 
+  program_finished: 'Bienvenido a la calculadora! Entre su nombre:'
+  welcome: 'Bienvenido a la calculadora! Entre su nombre:'
+  whats_first_num: 'Bienvenido a la calculadora! Entre su nombre:'
+  whats_second_num: 'Bienvenido a la calculadora! Entre su nombre:'
