@@ -1,1 +1,1 @@
-# Fendev-repo-launch_school_101_ls2_small_programs
+# launch_school_101_ls2_small_programs
