@@ -1,5 +1,3 @@
-require 'pry'
-
 VALID_CHOICES = %w[rock paper scissors spock lizard].freeze
 
 MEMBERS_AND_VICTIMS = {
